@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ECODAY</string>
+    <string name="title_activity_inicio">inicio</string>
+    <string name="INICIO">INICIO</string>
+    <string name="NOTICIAS">NOTICIAS</string>
+    <string name="DIARIO">DIARIO</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_principal">principal</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="jdj">informacion</string>
+</resources>
